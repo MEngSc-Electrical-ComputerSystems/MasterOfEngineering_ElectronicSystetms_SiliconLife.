@@ -62,7 +62,7 @@ LESSON 5: Java - A Simple Game (Pong with a trajectory),
 
 - Prerequisite: SUBJECT Alpha: C++, Java - Introduction To High Level Hardware Language.
 
-LESSON 6: CLIB Server-Side - Launch Que For Threads At Ends.
+LESSON 6: CLIB Server-Side - LaunchQue For ThreadsAtEnds.
 ---
 
 TEMPLATE => ([https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK](https://github.com/OpenAvril/CLIB_LaunchEnableForConcurrentThreadsAt_END/tree/Implementations_CLIB).
@@ -70,7 +70,7 @@ TEMPLATE => ([https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK](http
 ### - Resource DELTA.
 - Implements: Resource ALPHA.
 
-LESSON 7: CLIB Server-Side - OpenEpiCentre.
+LESSON 7: CLIB Server-Side : OpenEpiCentre : Ubuntu Server Update.
 ---
 
 TEMPLATE => (https://github.com/OpenAvril/OpenEpiCentre_BackEndUbuntu). .UNDER DEVELOPMENT.
