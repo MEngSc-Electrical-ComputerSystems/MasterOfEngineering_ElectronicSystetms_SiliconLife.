@@ -8,6 +8,8 @@ Control Systems, (2) Concurrency; Core, Post-Process., (3) Networking, (4) Full 
 
 I am the sole trader entrepreneur that started The Silicon Life Architecture project. The TEMPLATE for all server interfacing, as a trade venture of Jasper Assembly Pty Ltd. in 2020. A template for a supercomputer on the modern server. Extendable to Concurrent Full Stack Development and Binary Neural Intelligence of all systems that input to output via algorithm.
 
+I extend to you an array of MIT packages for teaching the Silicon Life Engineer.
+
 ---
 ---
 
