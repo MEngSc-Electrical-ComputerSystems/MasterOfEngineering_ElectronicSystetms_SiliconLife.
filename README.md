@@ -24,7 +24,7 @@ I am the sole trader entrepreneur that started The Silicon Life Architecture pro
 ### - Resource ALPHA.
 
 
-[LESSON 2: C++ CLIB - The DLL - Write Que For Thread At Registers. ].
+[[LESSON 2: C++ - CLIB WriteQue For ThreadsAtDataCluster. ]](https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK).
 ---
 
 TEMPLATE => (https://github.com/OpenAvril/CLIB_WriteQueForThreadsAt_STACK).
